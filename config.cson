@@ -1,0 +1,25 @@
+"*":
+  "atom-autocomplete-php": {}
+  "atom-material-ui": {}
+  "autocomplete-php": {}
+  core:
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontFamily: "Source Han Code JP"
+    fontSize: 15
+    invisibles: {}
+    showInvisibles: true
+  "exception-reporting":
+    userId: "2b16c937-8b7c-0ea3-026a-09934fd447ba"
+  fonts: {}
+  "git-plus": {}
+  "highlight-line": {}
+  minimap:
+    plugins:
+      bookmarks: true
+      "minimap-autohide": false
+  welcome:
+    showOnStartup: false
