@@ -4,4 +4,4 @@ dev
 storage
 .node-gyp
 .npm
-packages/
+packages
