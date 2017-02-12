@@ -1,1 +1,14 @@
-{}
+[
+  {
+    title: "yggdrasill"
+    paths: [
+      "/Applications/MAMP/htdocs/wp.yat-net.com-sakura/vccw/www/wordpress/wp-content/themes/yggdrasill"
+    ]
+  }
+  {
+    title: "tipsnote"
+    paths: [
+      "/Applications/MAMP/htdocs/someone/www/wordpress/wp-content/themes/someone_org_theme"
+    ]
+  }
+]
